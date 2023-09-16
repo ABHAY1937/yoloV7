@@ -1,12 +1,15 @@
 #YOLOv7 Transfer Learning Project
-This project is a YOLOv7 implementation with transfer learning for object detection. It includes the necessary libraries and steps to train your custom model using your own dataset. You can also use a pre-trained model for inference.
 
-Table of Contents
-Prerequisites
-Installation
-Dataset Preparation
-Training
-Inference
+This project is a YOLOv7 implementation with transfer learning for object detection.
+It includes the necessary libraries and steps to train your custom model using your own dataset. 
+You can also use a pre-trained model for inference.
+
+#Table of Contents
+#Prerequisites
+#Installation
+#Dataset Preparation
+#Training
+#Inference
 Demo
 Sample Output
 Contributing
