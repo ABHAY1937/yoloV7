@@ -108,3 +108,8 @@ This will display object detection results from your webcam in real-time.
 
 Sample Output
 ![download](https://github.com/ABHAY1937/yoloV7/assets/130343822/2d67118d-cd1c-4cdc-8596-2c8aad3af2c4)
+
+
+https://github.com/ABHAY1937/yoloV7/assets/130343822/121f1308-3fca-45e2-a88d-27df7692563a
+
+
