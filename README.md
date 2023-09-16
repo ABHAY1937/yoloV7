@@ -107,4 +107,4 @@ python webcam.py --weights weights/best.pt
 This will display object detection results from your webcam in real-time.
 
 Sample Output
-Insert sample images or videos here to showcase your project's results.
+![download](https://github.com/ABHAY1937/yoloV7/assets/130343822/2d67118d-cd1c-4cdc-8596-2c8aad3af2c4)
